@@ -1,2 +1,2 @@
-# ex
+# Inventory Management System
 nothing
